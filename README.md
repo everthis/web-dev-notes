@@ -1,5 +1,8 @@
 # web-dev-notes
 
+1. Iteration
+
+
 ![alt text](https://github.com/everthis/web-dev-notes/blob/master/images/iteration.png "iteration")
 
 ```
