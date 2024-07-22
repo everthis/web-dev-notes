@@ -22,3 +22,8 @@ AFAICT, it depends on when a feature was introduced:
 
 
 ![alt text](https://github.com/everthis/web-dev-notes/blob/master/images/data-in-workers.jpeg "workers")
+
+4. Hook flow
+
+
+![alt text](https://github.com/everthis/web-dev-notes/blob/master/images/hook-flow.png "hook-flow")
